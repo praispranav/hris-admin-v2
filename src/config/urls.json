@@ -1,0 +1,10 @@
+{
+    "seller":{
+        "baseURL":"/seller",
+        "sellerLogin":"/login",
+        "sellerRegister":"/register",
+        "sellerForgetPassword":"/forget",
+        "sellerVerifyOtp":"/verify",
+        "sellerChangePassword":"/change-password"
+    }
+}
